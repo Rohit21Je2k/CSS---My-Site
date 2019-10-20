@@ -61,13 +61,13 @@ a:hover {
 
 .top-cloud {
   display: block;
-  margin: 0 200px 0 auto ;
+  margin: 0 150px 20px auto ;
 
 }
 
 .bottom-cloud {
   display: block;
-  margin: 0 auto 0 220px ;
+  margin: 0 auto 0 150px ;
 }
 
 .profile-img {
